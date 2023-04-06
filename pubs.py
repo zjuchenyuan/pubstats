@@ -23,6 +23,8 @@ CONFERENCES = {
     'sys_sec': ['CCS', 'ACM Conference on Computer and Communications Security', 'USENIX Security', 'USENIX Security Symposium', 'NDSS', 'IEEE Symposium on Security and Privacy'],
     #'sys_db': ['SIGMOD Conference', 'VLDB', 'PVLDB', 'Proc. VLDB Endow.', 'ICDE', 'PODS'],
     'sys_db': ['SIGMOD Conference', 'VLDB', 'PVLDB', 'Proc. VLDB Endow.'],
+    #加上tdsc tifs
+    'sec_withjournal': ['CCS', 'ACM Conference on Computer and Communications Security', 'USENIX Security', 'USENIX Security Symposium', 'NDSS', 'IEEE Symposium on Security and Privacy'] + ['IEEE Trans. Dependable Secur. Comput.', 'IEEE Trans. Inf. Forensics Secur.'],
     'sys_design': ['DAC', 'ICCAD'],
     'sys_embed': ['EMSOFT', 'RTAS', 'RTSS'],
     'sys_hpc': ['HPDC', 'ICS', 'SC'],
@@ -32,6 +34,8 @@ CONFERENCES = {
     'sys_pl': ['PLDI', 'POPL', 'ICFP', 'OOPSLA', 'OOPSLA/ECOOP'],
     #'sys_se': ['SIGSOFT FSE', 'ESEC/SIGSOFT FSE', 'ICSE', 'ICSE (1)', 'ICSE (2)', 'ASE', 'ISSTA'],
     'sys_se': ['SIGSOFT FSE', 'ESEC/SIGSOFT FSE', 'ICSE', 'ICSE (1)', 'ICSE (2)'],
+    'ccfa':['ACM Trans. Comput. Syst.', 'ACM Trans. Storage', 'IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.', 'IEEE Trans. Computers', 'IEEE Trans. Parallel Distributed Syst.', 'ACM Trans. Archit. Code Optim.', 'PPoPP', 'FAST', 'DAC', 'HPCA', 'MICRO', 'SC', 'ASPLOS', 'ISCA', 'USENIX Annual Technical Conference', 'USENIX Annual Technical Conference, General Track', 'EuroSys', 'IEEE J. Sel. Areas Commun.', 'IEEE Trans. Mob. Comput.', 'IEEE/ACM Trans. Netw.', 'SIGCOMM', 'MobiCom', 'MOBICOM', 'INFOCOM', 'NSDI', 'IEEE Trans. Dependable Secur. Comput.', 'IEEE Trans. Inf. Forensics Secur.', 'J. Cryptol.', 'CCS', 'ACM Conference on Computer and Communications Security', 'EUROCRYPT', 'IEEE Symposium on Security and Privacy', 'CRYPTO', 'USENIX Security Symposium', 'USENIX Security', 'NDSS', 'ACM Trans. Program. Lang. Syst.', 'ACM Trans. Softw. Eng. Methodol.', 'IEEE Trans. Software Eng.', 'IEEE Trans. Serv. Comput.', 'PLDI', 'POPL', 'ESEC/SIGSOFT FSE', 'SIGSOFT FSE', 'SOSP', 'OOPSLA', 'OOPSLA/ECOOP', 'ASE', 'ICSE', 'ICSE (1)', 'ICSE (2)', 'ISSTA', 'OSDI', 'FM', 'ACM Trans. Database Syst.', 'ACM Trans. Inf. Syst.', 'IEEE Trans. Knowl. Data Eng.', 'VLDB J.', 'SIGMOD Conference', 'KDD', 'ICDE', 'SIGIR', 'Proc. VLDB Endow.', 'VLDB', 'PVLDB', 'IEEE Trans. Inf. Theory', 'Inf. Comput.', 'SIAM J. Comput.', 'STOC', 'SODA', 'CAV', 'FOCS', 'LICS', 'ACM Trans. Graph.', 'IEEE Trans. Image Process.', 'IEEE Trans. Vis. Comput. Graph.', 'ACM Multimedia', 'SIGGRAPH', 'VR', 'IEEE Trans. Vis. Comput. Graph.', 'IEEE VIS', 'Artif. Intell.', 'IEEE Trans. Pattern Anal. Mach. Intell.', 'Int. J. Comput. Vis.', 'J. Mach. Learn. Res.', 'AAAI', 'NeurIPS', 'ACL', 'CVPR', 'ICCV', 'ICML', 'IJCAI', 'ACM Trans. Comput. Hum. Interact.', 'Int. J. Hum. Comput. Stud.', 'Proc. ACM Hum. Comput. Interact.', 'CHI', 'ISWC', 'UIST', 'J. ACM', 'Proc. IEEE', 'Sci. China Inf. Sci.', 'WWW', 'RTSS', 'WINE'],
+    "tsinghuaa":['ACM Trans. Comput. Syst.', 'ACM Trans. Storage', 'IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.', 'IEEE Trans. Computers', 'IEEE Trans. Parallel Distributed Syst.', 'ICSA', 'FAST', 'ASPLOS', 'EuroSys', 'HPCA', 'SIGMETRICS', 'FPGA', 'USENIX Annual Technical Conference', 'USENIX Annual Technical Conference, General Track', 'MICRO', 'SC', 'PPoPP', 'DAC', 'IEEE J. Sel. Areas Commun.', 'IEEE Trans. Mob. Comput.', 'IEEE/ACM Trans. Netw.', 'IEEE Trans. Commun.', 'SIGCOMM', 'NSDI', 'MobiCom', 'MOBICOM', 'MobiSys', 'IMC', 'Internet Measurement Conference', 'IPSN', 'SenSys', 'INFOCOM', 'CoNEXT', 'ICNP', 'IEEE Trans. Inf. Forensics Secur.', 'J. Cryptol.', 'IEEE Trans. Dependable Secur. Comput.', 'IEEE Symposium on Security and Privacy', 'NDSS', 'USENIX Security Symposium', 'USENIX Security', 'CCS', 'ACM Conference on Computer and Communications Security', 'EUROCRYPT', 'CRYPTO', 'CHES', 'ASIACRYPT', 'SIAM J. Comput.', 'IEEE Trans. Inf. Theory', 'ACM Trans. Algorithms', 'Inf. Comput.', 'STOC', 'FOCS', 'SODA', 'CAV', 'LICS', 'CCC', 'ICALP', 'IEEE Trans. Software Eng.', 'ACM Trans. Softw. Eng. Methodol.', 'ACM Trans. Program. Lang. Syst.', 'OSDI', 'ICSE', 'ICSE (1)', 'ICSE (2)', 'SOSP', 'POPL', 'PLDI', 'ESEC/SIGSOFT FSE', 'SIGSOFT FSE', 'ISSTA', 'OOPSLA', 'OOPSLA/ECOOP', 'ASE', 'IEEE Trans. Knowl. Data Eng.', 'VLDB J.', 'ACM Trans. Database Syst.', 'ACM Trans. Inf. Syst.', 'SIGMOD Conference', 'KDD', 'SIGIR', 'WSDM', 'Proc. VLDB Endow.', 'VLDB', 'PVLDB', 'ICDE', 'PODS', 'IEEE Trans. Pattern Anal. Mach. Intell.', 'Int. J. Comput. Vis.', 'J. Mach. Learn. Res.', 'IEEE Trans. Robotics', 'Artif. Intell.', 'IEEE ACM Trans. Audio Speech Lang. Process.', 'CVPR', 'ICCV', 'ICML', 'ACL', 'ECCV', 'COLT', 'NeurIPS', 'AAAI', 'EMNLP', 'ICRA', 'ICLR', 'Robotics - Science and Systems', 'IEEE Trans. Image Process.', 'ACM Trans. Graph.', 'IEEE Trans. Multim.', 'IEEE Trans. Vis. Comput. Graph.', 'Comput. Aided Des.', 'SIGGRAPH', 'IEEE Trans. Vis. Comput. Graph.', 'IEEE VIS', 'ACM Multimedia', 'VR', 'Int. J. Hum. Comput. Stud.', 'ACM Trans. Comput. Hum. Interact.', 'Proc. ACM Hum. Comput. Interact.', 'ISWC', 'UIST', 'CHI', 'J. ACM', 'Proc. IEEE', 'Sci. China Inf. Sci.', 'RECOMB', 'ISMB', 'WWW', 'EC'],
 }
 
 CONFERENCES_NUMBER = {
@@ -46,7 +50,10 @@ CONFERENCES_NUMBER = {
     'sys_mes': {},
     'sys_os': {},
     'sys_pl': {'Proc. ACM Program. Lang.' : ['POPL', 'OOPSLA', 'ICFP']},
-    'sys_se': {}
+    'sys_se': {},
+    'sec_withjournal':{},
+    'ccfa':{},
+    "tsinghuaa":{},
 }
 
 CONFERENCES_SHORT = {
@@ -64,6 +71,9 @@ CONFERENCES_SHORT = {
     'sys_pl': ['PLDI', 'POPL', 'ICFP', 'OOPSLA'],
     #'sys_se': ['FSE', 'ICSE', 'ASE', 'ISSTA'],
     'sys_se': ['FSE', 'ICSE'],
+    'sec_withjournal':['CCS', 'USENIX Security', 'NDSS', 'Oakland', "TDSC", "TIFS"],
+    'ccfa':["CCF A类"],
+    "tsinghuaa":["清华 A类"],
 }
 
 AREA_TITLES = {
@@ -79,7 +89,10 @@ AREA_TITLES = {
     'sys_os': 'Systems: OS',
     'sys_pl': 'Systems: Programming Languages',
     'sys_se': 'Systems: Software Engineering',
-    'sys': 'All Areas'
+    'sys': 'All Areas',
+    'sec_withjournal':'Systems: Security (with journal)',
+    'ccfa':"CCF A类",
+    "tsinghuaa":"清华 A类",
 }
 
 class Pub():

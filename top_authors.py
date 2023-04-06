@@ -74,15 +74,28 @@ def parse_authors(pubs):
         top_values[year] = (total_pubs[year], max(per_author_pubs_years[year]), round(mean(per_author_pubs_years[year])*100)/100, top100mean, len(per_year_authors[year]))
 
     return (authors, max_year, top_values)
-
+import os
+YEAR = os.getenv("YEAR", None)
+if YEAR:
+    YEAR = int(YEAR)
+    print("YEAR start:", YEAR)
 
 def top_authors(authors, cons='', title='Top Authors', tname='templates/top-authors.html', fname='www/top-authors.html', nr_years=20):
+    if YEAR:
+        fname = fname.replace("/", f"/{YEAR}_")
     ranked = {}
     current_year = 0 # max year we have data of
 
     # walk through all authors and sort by class/ranking
     for name in authors:
         total = authors[name].get_total()
+        if YEAR:
+            author = authors[name]
+            recent = 0
+            for year in author.years.keys():
+                if year>=YEAR:
+                    recent += author.years[year]
+            total = recent
         if total > 2:
             if total not in ranked:
                 ranked[total] = []
@@ -293,7 +306,8 @@ def stat_figure(fig_data, title, max_year, nr_years, average=True, fname=''):
 if __name__ == '__main__':
     all_pubs = []
     top_values = {}
-    for area in CONFERENCES:
+    #for area in CONFERENCES:
+    for area in ['sys_sec', 'sec_withjournal', 'ccfa', 'tsinghuaa']:
         # Load pickeled data
         with open('pickle/pubs-{}.pickle'.format(area), 'rb') as f:
             pubs = pickle.load(f)
@@ -307,6 +321,7 @@ if __name__ == '__main__':
         # Pretty print HTML
         top_authors(authors, cons = ', '.join(CONFERENCES_SHORT[area]), title = AREA_TITLES[area], fname = 'www/top-authors-{}.html'.format(area))
 
+    exit(0)
     # Prepare per-author information
     authors, max_year, top_values['sys'] = parse_authors(all_pubs)
     print('Analyzed a total of {} authors'.format(len(authors)))
