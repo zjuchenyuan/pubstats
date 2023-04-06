@@ -1,0 +1,20 @@
+tocs tos tcad tc tpds taco
+ppopp fast dac hpca micro sc asplos isca usenix eurosys
+jsac tmc ton
+sigcomm mobicom infocom nsdi
+tdsc tifs joc
+ccs eurocrypt sp crypto uss ndss
+toplas tosem tse tsc
+pldi popl sigsoft sosp oopsla kbse icse issta osdi fm
+tods tois tkde vldb
+sigmod kdd icde sigir vldb
+tit iandc siamcomp
+stoc soda cav focs lics
+tog tip tvcg
+mm siggraph vr visualization
+ai pami ijcv jmlr
+aaai nips acl cvpr iccv icml ijcai
+tochi ijmms
+cscw chi huc uist
+jacm pieee chinaf
+www rtss wine

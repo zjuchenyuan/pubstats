@@ -1,0 +1,20 @@
+tocs tos tcad tc tpds
+icsa fast asplos eurosys hpca sigmetrics fpga usenix micro sc ppopp dac
+jsac tmc ton tcom
+sigcomm nsdi mobicom mobisys imc ipsn sensys infocom conext icnp
+tifs joc tdsc
+sp ndss uss ccs eurocrypt crypto ches asiacrypt
+siamcomp tit talg iandc
+stoc focs soda cav lics coco icalp
+tse tosem toplas
+osdi icse sosp popl pldi sigsoft issta oopsla kbse
+tkde vldb tods tois
+sigmod kdd sigir wsdm vldb icde pods
+pami ijcv jmlr trob ai taslp
+cvpr iccv icml acl eccv colt nips aaai emnlp icra iclr rss
+tip tog tmm tvcg cad
+siggraph visualization mm vr
+ijmms tochi
+cscw huc uist chi
+jacm pieee chinaf
+recomb ismb www sigecom

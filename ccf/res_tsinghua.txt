@@ -1,0 +1,128 @@
+tsinghua	高性能计算	journals	tocs	ACM Trans. Comput. Syst.
+tsinghua	高性能计算	journals	tos	ACM Trans. Storage
+tsinghua	高性能计算	journals	tcad	IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+tsinghua	高性能计算	journals	tc	IEEE Trans. Computers
+tsinghua	高性能计算	journals	tpds	IEEE Trans. Parallel Distributed Syst.
+tsinghua	高性能计算	conf	icsa	ICSA
+tsinghua	高性能计算	conf	fast	FAST
+tsinghua	高性能计算	conf	asplos	ASPLOS
+tsinghua	高性能计算	conf	eurosys	EuroSys
+tsinghua	高性能计算	conf	hpca	HPCA
+tsinghua	高性能计算	conf	sigmetrics	SIGMETRICS
+tsinghua	高性能计算	conf	fpga	FPGA
+tsinghua	高性能计算	conf	usenix	USENIX Annual Technical Conference
+tsinghua	高性能计算	conf	usenix	USENIX Annual Technical Conference, General Track
+tsinghua	高性能计算	conf	micro	MICRO
+tsinghua	高性能计算	conf	sc	SC
+tsinghua	高性能计算	conf	ppopp	PPoPP
+tsinghua	高性能计算	conf	dac	DAC
+tsinghua	计算机网络	journals	jsac	IEEE J. Sel. Areas Commun.
+tsinghua	计算机网络	journals	tmc	IEEE Trans. Mob. Comput.
+tsinghua	计算机网络	journals	ton	IEEE/ACM Trans. Netw.
+tsinghua	计算机网络	journals	tcom	IEEE Trans. Commun.
+tsinghua	计算机网络	conf	sigcomm	SIGCOMM
+tsinghua	计算机网络	conf	nsdi	NSDI
+tsinghua	计算机网络	conf	mobicom	MobiCom
+tsinghua	计算机网络	conf	mobicom	MOBICOM
+tsinghua	计算机网络	conf	mobisys	MobiSys
+tsinghua	计算机网络	conf	imc	IMC
+tsinghua	计算机网络	conf	imc	Internet Measurement Conference
+tsinghua	计算机网络	conf	ipsn	IPSN
+tsinghua	计算机网络	conf	sensys	SenSys
+tsinghua	计算机网络	conf	infocom	INFOCOM
+tsinghua	计算机网络	conf	conext	CoNEXT
+tsinghua	计算机网络	conf	icnp	ICNP
+tsinghua	网络与信息安全	journals	tifs	IEEE Trans. Inf. Forensics Secur.
+tsinghua	网络与信息安全	journals	joc	J. Cryptol.
+tsinghua	网络与信息安全	journals	tdsc	IEEE Trans. Dependable Secur. Comput.
+tsinghua	网络与信息安全	conf	sp	IEEE Symposium on Security and Privacy
+tsinghua	网络与信息安全	conf	ndss	NDSS
+tsinghua	网络与信息安全	conf	uss	USENIX Security Symposium
+tsinghua	网络与信息安全	conf	uss	USENIX Security
+tsinghua	网络与信息安全	conf	ccs	CCS
+tsinghua	网络与信息安全	conf	ccs	ACM Conference on Computer and Communications Security
+tsinghua	网络与信息安全	conf	eurocrypt	EUROCRYPT
+tsinghua	网络与信息安全	conf	crypto	CRYPTO
+tsinghua	网络与信息安全	conf	ches	CHES
+tsinghua	网络与信息安全	conf	asiacrypt	ASIACRYPT
+tsinghua	理论计算机科学	journals	siamcomp	SIAM J. Comput.
+tsinghua	理论计算机科学	journals	tit	IEEE Trans. Inf. Theory
+tsinghua	理论计算机科学	journals	talg	ACM Trans. Algorithms
+tsinghua	理论计算机科学	journals	iandc	Inf. Comput.
+tsinghua	理论计算机科学	conf	stoc	STOC
+tsinghua	理论计算机科学	conf	focs	FOCS
+tsinghua	理论计算机科学	conf	soda	SODA
+tsinghua	理论计算机科学	conf	cav	CAV
+tsinghua	理论计算机科学	conf	lics	LICS
+tsinghua	理论计算机科学	conf	coco	CCC
+tsinghua	理论计算机科学	conf	icalp	ICALP
+tsinghua	系统软件与软件工程	journals	tse	IEEE Trans. Software Eng.
+tsinghua	系统软件与软件工程	journals	tosem	ACM Trans. Softw. Eng. Methodol.
+tsinghua	系统软件与软件工程	journals	toplas	ACM Trans. Program. Lang. Syst.
+tsinghua	系统软件与软件工程	conf	osdi	OSDI
+tsinghua	系统软件与软件工程	conf	icse	ICSE
+tsinghua	系统软件与软件工程	conf	icse	ICSE (1)
+tsinghua	系统软件与软件工程	conf	icse	ICSE (2)
+tsinghua	系统软件与软件工程	conf	sosp	SOSP
+tsinghua	系统软件与软件工程	conf	popl	POPL
+tsinghua	系统软件与软件工程	conf	pldi	PLDI
+tsinghua	系统软件与软件工程	conf	sigsoft	ESEC/SIGSOFT FSE
+tsinghua	系统软件与软件工程	conf	sigsoft	SIGSOFT FSE
+tsinghua	系统软件与软件工程	conf	issta	ISSTA
+tsinghua	系统软件与软件工程	conf	oopsla	OOPSLA
+tsinghua	系统软件与软件工程	conf	oopsla	OOPSLA/ECOOP
+tsinghua	系统软件与软件工程	conf	kbse	ASE
+tsinghua	数据库与数据挖掘	journals	tkde	IEEE Trans. Knowl. Data Eng.
+tsinghua	数据库与数据挖掘	journals	vldb	VLDB J.
+tsinghua	数据库与数据挖掘	journals	tods	ACM Trans. Database Syst.
+tsinghua	数据库与数据挖掘	journals	tois	ACM Trans. Inf. Syst.
+tsinghua	数据库与数据挖掘	conf	sigmod	SIGMOD Conference
+tsinghua	数据库与数据挖掘	conf	kdd	KDD
+tsinghua	数据库与数据挖掘	conf	sigir	SIGIR
+tsinghua	数据库与数据挖掘	conf	wsdm	WSDM
+tsinghua	数据库与数据挖掘	conf	vldb	Proc. VLDB Endow.
+tsinghua	数据库与数据挖掘	conf	vldb	VLDB
+tsinghua	数据库与数据挖掘	conf	vldb	PVLDB
+tsinghua	数据库与数据挖掘	conf	icde	ICDE
+tsinghua	数据库与数据挖掘	conf	pods	PODS
+tsinghua	人工智能与模式识别	journals	pami	IEEE Trans. Pattern Anal. Mach. Intell.
+tsinghua	人工智能与模式识别	journals	ijcv	Int. J. Comput. Vis.
+tsinghua	人工智能与模式识别	journals	jmlr	J. Mach. Learn. Res.
+tsinghua	人工智能与模式识别	journals	trob	IEEE Trans. Robotics
+tsinghua	人工智能与模式识别	journals	ai	Artif. Intell.
+tsinghua	人工智能与模式识别	journals	taslp	IEEE ACM Trans. Audio Speech Lang. Process.
+tsinghua	人工智能与模式识别	conf	cvpr	CVPR
+tsinghua	人工智能与模式识别	conf	iccv	ICCV
+tsinghua	人工智能与模式识别	conf	icml	ICML
+tsinghua	人工智能与模式识别	conf	acl	ACL
+tsinghua	人工智能与模式识别	conf	eccv	ECCV
+tsinghua	人工智能与模式识别	conf	colt	COLT
+tsinghua	人工智能与模式识别	conf	nips	NeurIPS
+tsinghua	人工智能与模式识别	conf	aaai	AAAI
+tsinghua	人工智能与模式识别	conf	emnlp	EMNLP
+tsinghua	人工智能与模式识别	conf	icra	ICRA
+tsinghua	人工智能与模式识别	conf	iclr	ICLR
+tsinghua	人工智能与模式识别	conf	rss	Robotics - Science and Systems
+tsinghua	计算机图形学与多媒体	journals	tip	IEEE Trans. Image Process.
+tsinghua	计算机图形学与多媒体	journals	tog	ACM Trans. Graph.
+tsinghua	计算机图形学与多媒体	journals	tmm	IEEE Trans. Multim.
+tsinghua	计算机图形学与多媒体	journals	tvcg	IEEE Trans. Vis. Comput. Graph.
+tsinghua	计算机图形学与多媒体	journals	cad	Comput. Aided Des.
+tsinghua	计算机图形学与多媒体	conf	siggraph	SIGGRAPH
+tsinghua	计算机图形学与多媒体	conf	visualization	IEEE Trans. Vis. Comput. Graph.
+tsinghua	计算机图形学与多媒体	conf	visualization	IEEE VIS
+tsinghua	计算机图形学与多媒体	conf	mm	ACM Multimedia
+tsinghua	计算机图形学与多媒体	conf	vr	VR
+tsinghua	人机交互与普适计算	journals	ijmms	Int. J. Hum. Comput. Stud.
+tsinghua	人机交互与普适计算	journals	tochi	ACM Trans. Comput. Hum. Interact.
+tsinghua	人机交互与普适计算	conf	cscw	Proc. ACM Hum. Comput. Interact.
+tsinghua	人机交互与普适计算	conf	huc	ISWC
+tsinghua	人机交互与普适计算	conf	uist	UIST
+tsinghua	人机交互与普适计算	conf	chi	CHI
+tsinghua	综合与交叉	journals	jacm	J. ACM
+tsinghua	综合与交叉	journals	pieee	Proc. IEEE
+tsinghua	综合与交叉	journals	chinaf	Sci. China Inf. Sci.
+tsinghua	综合与交叉	conf	recomb	RECOMB
+tsinghua	综合与交叉	conf	ismb	ISMB
+tsinghua	综合与交叉	conf	www	WWW
+tsinghua	综合与交叉	conf	sigecom	EC

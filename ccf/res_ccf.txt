@@ -1,0 +1,104 @@
+ccf	计算机体系结构/并行与分布计算/存储系统	journals	tocs	ACM Trans. Comput. Syst.
+ccf	计算机体系结构/并行与分布计算/存储系统	journals	tos	ACM Trans. Storage
+ccf	计算机体系结构/并行与分布计算/存储系统	journals	tcad	IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+ccf	计算机体系结构/并行与分布计算/存储系统	journals	tc	IEEE Trans. Computers
+ccf	计算机体系结构/并行与分布计算/存储系统	journals	tpds	IEEE Trans. Parallel Distributed Syst.
+ccf	计算机体系结构/并行与分布计算/存储系统	journals	taco	ACM Trans. Archit. Code Optim.
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	ppopp	PPoPP
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	fast	FAST
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	dac	DAC
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	hpca	HPCA
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	micro	MICRO
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	sc	SC
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	asplos	ASPLOS
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	isca	ISCA
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	usenix	USENIX Annual Technical Conference
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	usenix	USENIX Annual Technical Conference, General Track
+ccf	计算机体系结构/并行与分布计算/存储系统	conf	eurosys	EuroSys
+ccf	计算机网络	journals	jsac	IEEE J. Sel. Areas Commun.
+ccf	计算机网络	journals	tmc	IEEE Trans. Mob. Comput.
+ccf	计算机网络	journals	ton	IEEE/ACM Trans. Netw.
+ccf	计算机网络	conf	sigcomm	SIGCOMM
+ccf	计算机网络	conf	mobicom	MobiCom
+ccf	计算机网络	conf	mobicom	MOBICOM
+ccf	计算机网络	conf	infocom	INFOCOM
+ccf	计算机网络	conf	nsdi	NSDI
+ccf	网络与信息安全	journals	tdsc	IEEE Trans. Dependable Secur. Comput.
+ccf	网络与信息安全	journals	tifs	IEEE Trans. Inf. Forensics Secur.
+ccf	网络与信息安全	journals	joc	J. Cryptol.
+ccf	网络与信息安全	conf	ccs	CCS
+ccf	网络与信息安全	conf	ccs	ACM Conference on Computer and Communications Security
+ccf	网络与信息安全	conf	eurocrypt	EUROCRYPT
+ccf	网络与信息安全	conf	sp	IEEE Symposium on Security and Privacy
+ccf	网络与信息安全	conf	crypto	CRYPTO
+ccf	网络与信息安全	conf	uss	USENIX Security Symposium
+ccf	网络与信息安全	conf	uss	USENIX Security
+ccf	网络与信息安全	conf	ndss	NDSS
+ccf	软件工程/系统软件/程序设计语言	journals	toplas	ACM Trans. Program. Lang. Syst.
+ccf	软件工程/系统软件/程序设计语言	journals	tosem	ACM Trans. Softw. Eng. Methodol.
+ccf	软件工程/系统软件/程序设计语言	journals	tse	IEEE Trans. Software Eng.
+ccf	软件工程/系统软件/程序设计语言	journals	tsc	IEEE Trans. Serv. Comput.
+ccf	软件工程/系统软件/程序设计语言	conf	pldi	PLDI
+ccf	软件工程/系统软件/程序设计语言	conf	popl	POPL
+ccf	软件工程/系统软件/程序设计语言	conf	sigsoft	ESEC/SIGSOFT FSE
+ccf	软件工程/系统软件/程序设计语言	conf	sigsoft	SIGSOFT FSE
+ccf	软件工程/系统软件/程序设计语言	conf	sosp	SOSP
+ccf	软件工程/系统软件/程序设计语言	conf	oopsla	OOPSLA
+ccf	软件工程/系统软件/程序设计语言	conf	oopsla	OOPSLA/ECOOP
+ccf	软件工程/系统软件/程序设计语言	conf	kbse	ASE
+ccf	软件工程/系统软件/程序设计语言	conf	icse	ICSE
+ccf	软件工程/系统软件/程序设计语言	conf	icse	ICSE (1)
+ccf	软件工程/系统软件/程序设计语言	conf	icse	ICSE (2)
+ccf	软件工程/系统软件/程序设计语言	conf	issta	ISSTA
+ccf	软件工程/系统软件/程序设计语言	conf	osdi	OSDI
+ccf	软件工程/系统软件/程序设计语言	conf	fm	FM
+ccf	数据库/数据挖掘/内容检索	journals	tods	ACM Trans. Database Syst.
+ccf	数据库/数据挖掘/内容检索	journals	tois	ACM Trans. Inf. Syst.
+ccf	数据库/数据挖掘/内容检索	journals	tkde	IEEE Trans. Knowl. Data Eng.
+ccf	数据库/数据挖掘/内容检索	journals	vldb	VLDB J.
+ccf	数据库/数据挖掘/内容检索	conf	sigmod	SIGMOD Conference
+ccf	数据库/数据挖掘/内容检索	conf	kdd	KDD
+ccf	数据库/数据挖掘/内容检索	conf	icde	ICDE
+ccf	数据库/数据挖掘/内容检索	conf	sigir	SIGIR
+ccf	数据库/数据挖掘/内容检索	conf	vldb	Proc. VLDB Endow.
+ccf	数据库/数据挖掘/内容检索	conf	vldb	VLDB
+ccf	数据库/数据挖掘/内容检索	conf	vldb	PVLDB
+ccf	计算机科学理论	journals	tit	IEEE Trans. Inf. Theory
+ccf	计算机科学理论	journals	iandc	Inf. Comput.
+ccf	计算机科学理论	journals	siamcomp	SIAM J. Comput.
+ccf	计算机科学理论	conf	stoc	STOC
+ccf	计算机科学理论	conf	soda	SODA
+ccf	计算机科学理论	conf	cav	CAV
+ccf	计算机科学理论	conf	focs	FOCS
+ccf	计算机科学理论	conf	lics	LICS
+ccf	计算机图形学与多媒体	journals	tog	ACM Trans. Graph.
+ccf	计算机图形学与多媒体	journals	tip	IEEE Trans. Image Process.
+ccf	计算机图形学与多媒体	journals	tvcg	IEEE Trans. Vis. Comput. Graph.
+ccf	计算机图形学与多媒体	conf	mm	ACM Multimedia
+ccf	计算机图形学与多媒体	conf	siggraph	SIGGRAPH
+ccf	计算机图形学与多媒体	conf	vr	VR
+ccf	计算机图形学与多媒体	conf	visualization	IEEE Trans. Vis. Comput. Graph.
+ccf	计算机图形学与多媒体	conf	visualization	IEEE VIS
+ccf	人工智能	journals	ai	Artif. Intell.
+ccf	人工智能	journals	pami	IEEE Trans. Pattern Anal. Mach. Intell.
+ccf	人工智能	journals	ijcv	Int. J. Comput. Vis.
+ccf	人工智能	journals	jmlr	J. Mach. Learn. Res.
+ccf	人工智能	conf	aaai	AAAI
+ccf	人工智能	conf	nips	NeurIPS
+ccf	人工智能	conf	acl	ACL
+ccf	人工智能	conf	cvpr	CVPR
+ccf	人工智能	conf	iccv	ICCV
+ccf	人工智能	conf	icml	ICML
+ccf	人工智能	conf	ijcai	IJCAI
+ccf	人机交互与普适计算	journals	tochi	ACM Trans. Comput. Hum. Interact.
+ccf	人机交互与普适计算	journals	ijmms	Int. J. Hum. Comput. Stud.
+ccf	人机交互与普适计算	conf	cscw	Proc. ACM Hum. Comput. Interact.
+ccf	人机交互与普适计算	conf	chi	CHI
+ccf	人机交互与普适计算	conf	huc	ISWC
+ccf	人机交互与普适计算	conf	uist	UIST
+ccf	交叉/综合/新兴	journals	jacm	J. ACM
+ccf	交叉/综合/新兴	journals	pieee	Proc. IEEE
+ccf	交叉/综合/新兴	journals	chinaf	Sci. China Inf. Sci.
+ccf	交叉/综合/新兴	conf	www	WWW
+ccf	交叉/综合/新兴	conf	rtss	RTSS
+ccf	交叉/综合/新兴	conf	wine	WINE
