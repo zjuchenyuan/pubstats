@@ -1,3 +1,14 @@
+## 更新步骤
+
+```
+make fresh
+python3 parse_dblp.py
+YEAR=2018 python3 top_authors.py #近5年数据
+YEAR=2020 python3 top_authors.py #近3年数据
+```
+
+由于ccf-a和清华-a的数据量太大 浏览器可能卡死 建议使用w3m转为txt
+
 # Publication statistics
 
 This repository establishes simple statistics for a set of conferences.
